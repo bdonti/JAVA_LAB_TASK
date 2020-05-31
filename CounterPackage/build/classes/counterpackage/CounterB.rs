@@ -1,0 +1,2 @@
+CounterPackage.CounterB
+newpackage.CounterB
